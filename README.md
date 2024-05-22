@@ -12,7 +12,9 @@ pip install medmnist
 
 ## Training and Validation Accuracy Metrics
 Here are the accuracy metrics for the last epoch of training:
+```
 Epoch [30/30], Loss: 0.0159, Train Accuracy: 99.79%, Val Accuracy: 96.82%
+```
 
 ## Test Accuracy
 The accuracy of the model on the test images is: 85.90%
